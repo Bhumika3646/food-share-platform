@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1776748435018,
+    "name": "hotel1",
+    "email": "hotel@gmail.com",
+    "password": "123",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776748676581,
+    "name": "hotel2",
+    "email": "hotel2@gmail.com",
+    "password": "456",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776749698900,
+    "name": "1234",
+    "email": "hotel",
+    "password": "145y7",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776750493402,
+    "name": "hfvc",
+    "email": "hdvx6482@gmail.com",
+    "password": "nxe",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776751669513,
+    "name": "bhumi",
+    "email": "bhumi@gmail.com",
+    "password": "bhumi",
+    "role": "ngo"
+  },
+  {
+    "id": 1776752201412,
+    "name": "hotell",
+    "email": "hotel3@gmail.com",
+    "password": "hotel",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776753100346,
+    "name": "resto",
+    "email": "resto1@gmail.com",
+    "password": "resto",
+    "role": "restaurant"
+  },
+  {
+    "id": 1776753291976,
+    "name": "kusu",
+    "email": "kusu@gmail.com",
+    "password": "kusu",
+    "role": "ngo"
+  },
+  {
+    "id": 1776754560691,
+    "name": "kusu",
+    "email": "kusu1@gmail.com",
+    "password": "kusu0",
+    "role": "ngo"
+  },
+  {
+    "id": 1776761475521,
+    "name": "kusuma",
+    "email": "kusuma@gmail.com",
+    "password": "kusu",
+    "role": "ngo"
+  },
+  {
+    "id": 1776794310906,
+    "name": "sinchu",
+    "email": "sinchu@gmail.com",
+    "password": "sinchu",
+    "role": "ngo"
+  },
+  {
+    "id": 1777391656000,
+    "name": "resto",
+    "email": "resto2@gmail.com",
+    "password": "resto@gmail.com",
+    "role": "restaurant"
+  },
+  {
+    "id": 1777391764190,
+    "name": "bhum",
+    "email": "bhum@gmail.com",
+    "password": "bhumi@123",
+    "role": "ngo"
+  }
+]

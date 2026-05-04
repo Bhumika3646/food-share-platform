@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1776749133917,
+    "foodName": "rice",
+    "quantity": "10 plates",
+    "location": "mysore",
+    "expiryTime": "2026-04-21T23:49",
+    "postedBy": "hotel2",
+    "priority": "Low",
+    "status": "Requested"
+  },
+  {
+    "id": 1776754464945,
+    "foodName": "fried rice",
+    "quantity": "10",
+    "location": "Bangalore",
+    "expiryTime": "2026-04-22T12:24",
+    "postedBy": "hotel2",
+    "priority": "Low",
+    "status": "Pending Request"
+  },
+  {
+    "id": 1776754499436,
+    "foodName": "Dosa",
+    "quantity": "8",
+    "location": "Kormangal",
+    "expiryTime": "2026-04-22T12:24",
+    "postedBy": "hotel2",
+    "priority": "Low",
+    "status": "Pending Request"
+  },
+  {
+    "id": 1776754536527,
+    "foodName": "Rice and Sambar",
+    "quantity": "20",
+    "location": "Yelhanka",
+    "expiryTime": "2026-04-22T12:25",
+    "postedBy": "hotel2",
+    "priority": "Low",
+    "status": "Available"
+  },
+  {
+    "id": 1776761432328,
+    "foodName": "Rice",
+    "quantity": "15 packets",
+    "location": "Bangalore",
+    "expiryTime": "2026-04-22T14:20",
+    "postedBy": "hotel2",
+    "priority": "Low",
+    "status": "Available"
+  }
+]
